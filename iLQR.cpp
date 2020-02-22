@@ -1,3 +1,9 @@
+/*
+Authors: Shobhit Saheb Dey, Kartik Punjabi
+iterative-Linear Quadratic Regulator
+Developed on kinematic model of car
+Tested on gazebo(car-demo model) on sinusoidal path at 5m/sec
+*/
 #include "ros/ros.h"
 #include "std_msgs/Float64.h"
 #include "nav_msgs/Odometry.h"
